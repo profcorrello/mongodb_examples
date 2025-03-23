@@ -1,5 +1,5 @@
-ccorrello/5dkGNvYxzT6gVJBi
+ccorrello/<passworde>
 
 71.227.96.134
 
-mongodb+srv://ccorrello:5dkGNvYxzT6gVJBi@teachingcluster.cwult.mongodb.net/
+mongodb+srv://ccorrello:<password>@teachingcluster.cwult.mongodb.net/
